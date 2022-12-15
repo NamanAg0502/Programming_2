@@ -1,0 +1,1 @@
+{"name":"Local: BUGLIFE","url":"/Users/naman/Documents/Programming/Graph/BUGLIFE.cpp","tests":[{"id":1661503212644,"input":"2\n3 3\n1 2\n2 3\n1 3\n4 2\n1 2\n3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/naman/Documents/Programming/Graph/BUGLIFE.cpp","group":"local","local":true}
